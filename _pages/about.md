@@ -3,7 +3,9 @@ layout: about
 title: about
 permalink: /
 description: >
-    <a href="https://bcs.mit.edu/">Brain & Cognitive Sciences, MIT</a>
+    <b>Current</b>: <a href="https://bcs.mit.edu/">Brain & Cognitive Sciences, MIT</a>
+    <br/>
+    <b>Future (Fall 2024)</b>: <a href="https://linguistics.osu.edu/">Department of Linguistics, Stanford</a>
     <br/>
     <a href="mailto:cory.shain@gmail.com">cory.shain@gmail.com</a>
     <br/>
@@ -19,7 +21,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a post-doctoral researcher at MIT, supervised by [Ev Fedorenko](https://evlab.mit.edu/).
+I'm a post-doctoral researcher at MIT, supervised by [Ev Fedorenko](https://evlab.mit.edu/),
+and a future Assistant Professor at Stanford Linguistics (starting fall 2024).
 I did my PhD in computational linguistics at Ohio State, where I was advised by
 [William Schuler](https://www.asc.ohio-state.edu/schuler.77/) and
 [Micha Elsner](https://u.osu.edu/elsner.14/).
