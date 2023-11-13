@@ -5,7 +5,7 @@ permalink: /
 description: >
     <b>Current</b>: <a href="https://bcs.mit.edu/">Brain & Cognitive Sciences, MIT</a>
     <br/>
-    <b>Future (Fall 2024)</b>: <a href="https://linguistics.osu.edu/">Department of Linguistics, Stanford</a>
+    <b>Future (Fall 2024)</b>: <a href="https://linguistics.stanford.edu/">Department of Linguistics, Stanford</a>
     <br/>
     <a href="mailto:cory.shain@gmail.com">cory.shain@gmail.com</a>
     <br/>
