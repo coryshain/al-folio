@@ -1,5 +1,5 @@
 "Affourtit":
-  - firstname: ["Josef"]
+  - firstname: ["Josef", "J."]
     url: https://www.josefaffourtit.com/
 
 "Blank":
@@ -7,8 +7,12 @@
     url: https://www.psych.ucla.edu/faculty/page/idanblank
 
 "Chen":
-  - firstname: ["Xuanyi", "Jessica"]
+  - firstname: ["Xuanyi", "Jessica", "X."]
     url: https://twitter.com/jessica_chenxy
+
+"Cotterell":
+  - firstname: ['Ryan', 'R.']
+    url: https://rycolab.io/authors/ryan/
 
 "Elsner":
   - firstname: ["Micha", "M."]
@@ -46,6 +50,10 @@
   - firstname: ["Ben", "Benjamin"]
     url: https://benlipkin.github.io/
 
+"Meister":
+  - firstname: ['Clara', 'C.']
+    url: https://cimeister.github.io/
+
 "Mollica":
   - firstname: ["Frank", "Francis"]
     url: https://mollicaf.github.io/
@@ -53,6 +61,10 @@
 "Paunov":
   - firstname: ["Alex", "Alexander"]
     url: https://twitter.com/ampaunov
+
+"Pimentel":
+  - firstname: ['Tiago', 'T.']
+    url: https://tpimentelms.github.io/
 
 "Schuler":
   - firstname: ["William", "W."]
