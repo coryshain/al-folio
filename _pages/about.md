@@ -21,8 +21,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm a post-doctoral researcher at MIT, supervised by [Ev Fedorenko](https://evlab.mit.edu/),
-and a future Assistant Professor at Stanford Linguistics (starting fall 2024).
+I'm an Assistant Professor of Linguistics at Stanford University. Before that, I was 
+a post-doctoral researcher at MIT, supervised by [Ev Fedorenko](https://evlab.mit.edu/).
 I did my PhD in computational linguistics at Ohio State, where I was advised by
 [William Schuler](https://www.asc.ohio-state.edu/schuler.77/) and
 [Micha Elsner](https://u.osu.edu/elsner.14/).
